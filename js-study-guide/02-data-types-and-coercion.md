@@ -56,11 +56,6 @@ console.log(Number("42")); // 42
 
 
 
-[Read More](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925)
-
-
-[Read More](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
-
 
 
 ### Questions
@@ -156,3 +151,11 @@ console.log(Number("42")); // 42
 >     * The second operation is `3 + '3'`. Now, string concatenation occurs. Final Result: `"33"`.
 > * **`'10' - 5`** $\rightarrow$ **`5`**
 >     * The subtraction (`-`) operator only works on numbers. JavaScript implicitly coerces the string `'10'` to the number `10` before performing the mathematical subtraction.
+
+
+
+[Resources](https://medium.com/@mila.mirovic98/javascript-fundamentals-type-conversion-coercion-8bbba10c9925)
+
+
+[Resources](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
+

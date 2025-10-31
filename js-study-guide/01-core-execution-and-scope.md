@@ -70,14 +70,6 @@ counterA(); // 2
 ```
 
 
-[Read More](https://www.freecodecamp.org/news/scope-closures-and-hoisting-in-javascript/)
-
-
-[Read More](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
-
-
-
-
 
 
 ### Questions
@@ -399,3 +391,12 @@ getName: function () {
 ```
 Object
 ```
+
+
+
+[Read More](https://www.freecodecamp.org/news/scope-closures-and-hoisting-in-javascript/)
+
+
+[Read More](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
+
+
