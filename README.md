@@ -109,4 +109,4 @@ Learning becomes **much easier** when visualized.
 
 ---
 
-### Happy Learning 👨‍💻🔥
+### Happy Learning
