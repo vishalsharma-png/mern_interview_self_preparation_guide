@@ -116,4 +116,5 @@ console.log(Object.getPrototypeOf(user)); // Person.prototype
 
 ---
 
-Section 10 complete ✅
+[Resources](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/)
+

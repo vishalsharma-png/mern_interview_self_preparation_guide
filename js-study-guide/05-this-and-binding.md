@@ -169,3 +169,8 @@ fn2(); // John
 
 ---
 
+
+
+[Resources](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/)
+
+[Resources](https://dev.to/codecraftjs/understanding-call-apply-and-bind-essential-methods-in-javascript-d62)

@@ -97,3 +97,13 @@ This improves performance and works well for dynamic content.
 
 ---
 
+
+
+[Resources](https://bytebytego.com/guides/what-happens-when-you-type-a-url-into-your-browser/)
+
+[Resources](https://www.youtube.com/watch?v=SmE4OwHztCc)
+
+[Resources](https://www.freecodecamp.org/news/web-page-rendering-on-the-browser-different-methods/)
+
+
+[Resources](https://web.dev/articles/vitals)

@@ -139,3 +139,6 @@ console.log(original.a.b);
 
 ---
 
+
+
+[Resources](https://javascript.info/array)

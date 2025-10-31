@@ -206,3 +206,13 @@ Write JavaScript to:
 *(Student exercises section)*
 
 ---
+
+
+[Resources](https://thenomadtechie.medium.com/mastering-javascript-event-handling-techniques-bubbling-capturing-delegation-and-propagation-0cdbe56f0b39)
+
+[Resources](https://www.greatfrontend.com/questions/quiz/describe-event-bubbling)
+
+[Resources](https://www.greatfrontend.com/questions/quiz/what-is-event-loop-what-is-the-difference-between-call-stack-and-task-queue)
+
+
+[Resources](https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/)

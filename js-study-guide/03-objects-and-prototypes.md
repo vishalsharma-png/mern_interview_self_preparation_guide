@@ -270,3 +270,12 @@ Because `y` references the *same prototype object*.
 
 ---
 
+
+[Resources](https://mostafizur99.medium.com/understanding-prototypes-in-javascript-the-backbone-of-inheritance-dec184153727)
+
+
+[Resources](https://javascript.info/object)
+
+
+
+

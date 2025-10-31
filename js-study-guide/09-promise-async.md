@@ -101,3 +101,17 @@ async function loadData() {
 | **Promise.allSettled()** | Resolves when **all** promises settle (success or failure)           | Logging/reporting operations                         |
 | **Promise.any()**        | Resolves on **first success**, rejects only if **all fail**          | Useful when only one successful result matters       |
 
+
+
+
+[Resources](https://javascript.info/promise-chaining)
+
+[Resources](https://medium.com/@lydiahallie/javascript-visualized-promises-async-await-a3f1aad8a943)
+
+[Resources](https://www.freecodecamp.org/news/web-page-rendering-on-the-browser-different-methods/)
+
+
+[Resources](https://bittukumar-web.medium.com/promise-and-its-methods-all-race-any-allsettled-0dc677b5aee1)
+
+[Resources](https://dev.to/alexmercedcoder/understanding-javascript-promises-in-depth-5ga9)
+

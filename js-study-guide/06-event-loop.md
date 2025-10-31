@@ -322,3 +322,14 @@ console.log("4");
 ```
 
 
+
+
+[Resources](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=113s)
+
+[Resources](https://www.youtube.com/watch?v=8zKuNo4ay8E)
+
+[Resources](https://www.greatfrontend.com/questions/quiz/what-is-event-loop-what-is-the-difference-between-call-stack-and-task-queue)
+
+
+[Event Loop Visualizer](https://www.jsv9000.app/)
+
