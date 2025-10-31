@@ -4,7 +4,7 @@ A structured, high‑quality reference covering essential and advanced JavaScrip
 
 ---
 
-## 📚 What This Repository Contains
+##  What This Repository Contains
 
 This guide is divided into clear sections:
 
@@ -23,7 +23,7 @@ Each section is stored as a separate `.md` file.
 
 ---
 
-## 🗂 Folder Structure
+##  Folder Structure
 
 ```
 js-study-guide/
@@ -40,7 +40,7 @@ js-study-guide/
 
 ---
 
-## 🔥 How to Use This Guide
+##  How to Use This Guide
 
 ### If You're a Student
 
@@ -71,7 +71,7 @@ Master these ➝ you understand JavaScript deeply.
 
 ---
 
-## ✅ Example Concept Flow (Quick Visual)
+##  Example Concept Flow (Quick Visual)
 
 ```
 Global Execution Context
@@ -91,14 +91,14 @@ Understanding this chain is key to writing correct, predictable JS.
 
 ---
 
-## 🧩 Requirements
+##  Requirements
 
 * Node.js (optional for running examples)
 * Any text editor (VS Code recommended)
 
 ---
 
-## ⭐ Recommendation
+## Recommendation
 
 Use this guide together with:
 
